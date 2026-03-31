@@ -26,7 +26,7 @@ This project presents an interactive **Power BI dashboard** analyzing Zepto sale
 This project demonstrates my ability to transform raw data into actionable insights using Power BI.
 
 ## 📁 Project Files  
-- `Zepto Sales Analysis.pbix` – Power BI dashboard file  
-- `dataset.csv` – Source dataset (if included)  
+- `Zepto Sales Analysis project.pbix` – Power BI dashboard file  
+- `Zepto Grocery Data.csv` – Source dataset 
 
 ---
