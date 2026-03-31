@@ -20,7 +20,7 @@ This project presents an interactive **Power BI dashboard** analyzing Zepto sale
 - Designed interactive dashboard with filters and slicers  
 
 ## 📷 Dashboard Preview  
-![Dashboard Screenshot]([your-image-link-here](https://github.com/Rakshaya555/Zepto_Sales_Analysis_Dashboard/blob/main/Zepto%20Sales%20Analysis%20Dashboard.png))
+-<a href="https://github.com/Rakshaya555/Zepto_Sales_Analysis_Dashboard/blob/main/Zepto%20Sales%20Analysis%20Dashboard.png">Dashboard</a>
 
 ## 🚀 Purpose  
 This project demonstrates my ability to transform raw data into actionable insights using Power BI.
